@@ -13,3 +13,8 @@ let mhs = {
     },
 };
 mhs.sapa();
+
+let login = {
+    nama: "Rizky simanjuntak",
+    email: "Keluarga@gmail.com",
+};
